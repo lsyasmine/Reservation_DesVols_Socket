@@ -1,0 +1,5 @@
+
+1000	1	Demande_RES	20	impossible
+1000	2	Demande_RES	10	succés
+1000	2	annulation	5	succés
+2000	2	Demande_RES	10	succés
